@@ -26,7 +26,6 @@ def gameon_choice():
         return True
     else:
         return False
-    return int(choice)
 
 game_on = True
 game_list = [0,1,2]
